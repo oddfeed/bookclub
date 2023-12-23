@@ -1,4 +1,13 @@
+---
+Start date: 23/12/2023
+Finish date: 
+Rating:
+Time:
+---
+
 # Timenergy
+View the progress [here](https://github.com/oddfeed/bookclub/milestone/1)
+Pacing: 
 
 # Terminology
 - Organic network (IRL relationships)
