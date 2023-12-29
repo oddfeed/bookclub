@@ -5,9 +5,14 @@ Rating:
 Time:
 ---
 
-# Timenergy
-View the progress [here](https://github.com/oddfeed/bookclub/milestone/1)  
-Pacing: 
+| Chapter | Readtime | Rating |
+| --      | --       | --     | 
+| 01      | 12       | 6      | 
+| 02      | 09       | 2      | 
+| 03      | 
+
+# Timenergy  
+![](/assets/timenergygraph.png)
 
 # Terminology
 - Organic network (IRL relationships)
@@ -15,7 +20,6 @@ Pacing:
 - Labor power - Labor is effort expended, labor power is potential labor made availible to, or put at the disposal of someoen elses interests.
 
 # 01 - Exhaustion is the spirit of our age
-- Read time: 00:12
 ## Quotes
 - "How much stress goes into trying to enjoy leisure time?"
 ## Concepts
@@ -25,7 +29,6 @@ Pacing:
 - People who're overworked want everyone else to be overworked so they can feel understood and valued through shared experiances
 
 # 02 - The curse that keeps on giving
-- Read time: 00:09 
 ## Quotes
 - "If you cannot find satisfactory fulfillment trading away the overwhelming majority of your precious time in this life to bosses, bankers and landlords then you are considered dysfunctional, a deviant, or labelled with a psychiatric disorder
 	- referencing "capitalist disorders" illnesses that only display incompatability with the system
@@ -38,3 +41,5 @@ Pacing:
 - Author claims timenergy is incredibly important but every thinker has come close but never quite figured it out
 - Author criticizes self help but uses the same language, the same patterns and the same strategies "This is incredibly important", "I'm the only one who has the answers"
 - Doesn't seem like the author has a solid grasp of mental illness or how psychology/psychiatry works
+
+# 03 - 
