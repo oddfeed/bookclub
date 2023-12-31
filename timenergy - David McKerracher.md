@@ -9,7 +9,7 @@ Time:
 | --      | --       | --     | 
 | 01      | 12       | 6      | 
 | 02      | 09       | 2      | 
-| 03      | 
+| 03      | 07       | 6      |
 
 # Timenergy  
 ![](/assets/timenergygraph.png)
@@ -42,4 +42,7 @@ Time:
 - Author criticizes self help but uses the same language, the same patterns and the same strategies "This is incredibly important", "I'm the only one who has the answers"
 - Doesn't seem like the author has a solid grasp of mental illness or how psychology/psychiatry works
 
-# 03 - 
+# 03 - Humanistically Qualified life VS Social Darwinism
+## Concepts
+- To ancient greeks slavery was not always literal you could be a slave to other peoples desires and instincts "slavish character" meaning a lack of self control
+- Learning used to be a lesiure activity, now it's reduced to just a way to make more money in the labor market
