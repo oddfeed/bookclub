@@ -10,6 +10,7 @@ Time:
 | 01      | 12       | 6      | 
 | 02      | 09       | 2      | 
 | 03      | 07       | 6      |
+| 04      | 
 
 # Timenergy  
 ![](/assets/timenergygraph.png)
