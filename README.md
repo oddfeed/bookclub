@@ -1,3 +1,8 @@
+# Currently reading
+- [timenergy](https://oddfeed.github.io/bookclub/timenergy.html)
+
+For potential future reads click [here](https://github.com/oddfeed/bookclub/issues)
+
 # bookclub
 This is a basic bookclub with a friend, works as follows (for me) 
 
@@ -7,3 +12,6 @@ This is a basic bookclub with a friend, works as follows (for me)
 4. Read the first chapter
 5. Decide how many chapters we're reading per week
 6. Write notes in the books corresponding markdown file as I go
+
+---
+
