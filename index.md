@@ -1,5 +1,8 @@
+- [README](https://oddfeed.github.io/bookclub/README.html)
+---
+
 # Masterlist
 ---
-- [index](https://oddfeed.github.io/bookclub/index.html)
 - [README](https://oddfeed.github.io/bookclub/README.html)
+- [index](https://oddfeed.github.io/bookclub/index.html)
 - [timenergy](https://oddfeed.github.io/bookclub/timenergy.html)
