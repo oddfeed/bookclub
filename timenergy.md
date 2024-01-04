@@ -12,6 +12,7 @@ Chapter,Readtime,Rating
 03,07,6
 04,05,5
 05,06,3 
+06,09,1
 ```
 
 # Timenergy  
@@ -23,7 +24,6 @@ Chapter,Readtime,Rating
 - Labor power - Labor is effort expended, labor power is potential labor made availible to, or put at the disposal of someoen elses interests.
 
 # 01 - Exhaustion is the spirit of our age
-
 ## Quotes
 - "How much stress goes into trying to enjoy leisure time?"
 
@@ -55,4 +55,27 @@ Chapter,Readtime,Rating
 - Learning used to be a lesiure activity, now it's reduced to just a way to make more money in the labor market
 
 # 04 - The structural stultification of timenergy
+## Notes
+- Grandiose language
 
+## Quotes
+- "Nothing worth doing can be done in a passive way"
+
+## Concepts
+- Without *truly* having free time you can't actualise yourself
+- if free time lacks energy it's worthless time
+
+# 05 - The American Dream: Slavery for all
+## Concepts
+- Bare life is spent in a state of preoccupation with basic animal concerns 
+
+## Notes 
+- The parts about slavery etc felt contrarian for the sake of it
+- The author claims that the only reason people disagree with them is because they don't understand
+
+# 06 - Being-in-the-world
+## Notes
+- Author implies timenergy theory is not subjective
+  - Does this by trying to claim a "physics" understanding of time is non-objective then word vomits a bunch to try and twist everything to justify the claim
+- Felt like the author reached the conclusion then went to look for a way to justify it
+- Chapter felt very bloated 
