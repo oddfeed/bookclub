@@ -5,15 +5,17 @@ Rating:
 Time:
 ---
 
-| Chapter | Readtime | Rating |
-| --      | --       | --     | 
-| 01      | 12       | 6      | 
-| 02      | 09       | 2      | 
-| 03      | 07       | 6      |
-| 04      | 
+```
+Chapter,Readtime,Rating
+01,12,6
+02,09,2
+03,07,6
+04,05,5
+05,06,3 
+```
 
 # Timenergy  
-![](/assets/timenergygraph.png)
+![](/assets/timenergychart.png)
 
 # Terminology
 - Organic network (IRL relationships)
