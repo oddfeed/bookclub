@@ -21,5 +21,9 @@ ax2.plot(df['Chapter'], df['Rating'], marker='o', color='green')
 ax2.set_ylabel('Rating', color='green')  
 ax2.tick_params(axis='y', labelcolor='green')
 
+# Set the limit for the rating axis
+ax2.set_ylim(0, 10)
+
 plt.savefig('output.png')
 plt.close()
+
