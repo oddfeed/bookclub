@@ -21,8 +21,10 @@ Time:
 - Labor power - Labor is effort expended, labor power is potential labor made availible to, or put at the disposal of someoen elses interests.
 
 # 01 - Exhaustion is the spirit of our age
+
 ## Quotes
 - "How much stress goes into trying to enjoy leisure time?"
+
 ## Concepts
 - Timenergy can be talked about ontologically using broader spans or repeatable time, but from the standpoint of a worker, timenergys pragmatic defintion puts what matters closest: the week itself.
 - Even if you free up relative timenergy in your life, you lack communities of others who have it too. We need timeenergy for ourselves but we also need other people to have it because we need others to develop.
@@ -35,8 +37,10 @@ Time:
 	- referencing "capitalist disorders" illnesses that only display incompatability with the system
 - "OCD is the only one of the more commonly known myriad conditions labeled "disorders" on the basis that the behaviour pattern interferes with ones ability to labor in a useful and routine way"
 	- OCD is a terrible example of a capitalist disorder, I wonder if the author has met anyone with formally diagnosed OCD or if he's just met people with self diagnosed or the more harmful "diagnosis" where a doctor mentions in passing "it sounds like OCD", People with OCD struggle to function in foundational ways such as self maintenence. 
+
 ## Concepts
 - Being gifted results in being pressured into always needing to achieve something, lesiure time is reduced to work
+
 ## Notes
 - Author uses incredibly grandiose language
 - Author claims timenergy is incredibly important but every thinker has come close but never quite figured it out
@@ -47,3 +51,6 @@ Time:
 ## Concepts
 - To ancient greeks slavery was not always literal you could be a slave to other peoples desires and instincts "slavish character" meaning a lack of self control
 - Learning used to be a lesiure activity, now it's reduced to just a way to make more money in the labor market
+
+# 04 - The structural stultification of timenergy
+
