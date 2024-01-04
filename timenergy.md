@@ -15,8 +15,16 @@ Chapter,Readtime,Rating
 06,09,1
 ```
 
-# Timenergy  
+# Timenergy
 ![](/assets/timenergychart.png)
+
+
+- [01 - Exhaustion is the spirit of our age](#01---exhaustion-is-the-spirit-of-our-age)
+- [02 - The curse that keeps on giving](#02---the-curse-that-keeps-on-giving)
+- [03 - Humanistically Qualified life VS Social Darwinism](#03---humanistically-qualified-life-vs-social-darwinism)
+- [04 - The structural stultification of timenergy](#04---the-structural-stultification-of-timenergy)
+- [05 - The American Dream: Slavery for all](#05---the-american-dream-slavery-for-all)
+- [06 - Being-in-the-world](#06---being-in-the-world)
 
 # Terminology
 - Organic network (IRL relationships)
