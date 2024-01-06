@@ -8,6 +8,8 @@ Chapter,Readtime,Rating
 05,06,3 
 06,09,1
 07,07,1
+08,10,4
+09,09,6
 ```
 
 | Start      | End | Rating | Time |
@@ -87,3 +89,6 @@ Chapter,Readtime,Rating
 - Incredibly bloated
 - Restating how important itmenergy is YET AGAIN
 # 08 - Timenergy Fragility vs Robin DiAngelo
+- Mostly just spent arguing against the concept of white fragility (pretty solid arguments but as always a lot longer than needed)
+# 09 - Without timenergy, drive is only self destructive
+- Chapter 09 was stronger, mostly talking about drive to change and how our environment can chape it.
