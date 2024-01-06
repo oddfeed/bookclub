@@ -88,7 +88,9 @@ Chapter,Readtime,Rating
 ## Notes
 - Incredibly bloated
 - Restating how important itmenergy is YET AGAIN
+
 # 08 - Timenergy Fragility vs Robin DiAngelo
 - Mostly just spent arguing against the concept of white fragility (pretty solid arguments but as always a lot longer than needed)
+
 # 09 - Without timenergy, drive is only self destructive
 - Chapter 09 was stronger, mostly talking about drive to change and how our environment can chape it.
