@@ -1,8 +1,7 @@
-assets
-charts.py
-current.csv
-index.md
 README.md
-script.sh
-
+current.csv
+charts.py
+assets
 timenergy.org
+script.sh
+index.md
