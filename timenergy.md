@@ -19,11 +19,13 @@ Chapter,Readtime,Rating
 ![](/assets/timenergychart.png)
 
 # Terminology
+
 - Organic network (IRL relationships)
 - Timenergy - timenergy is reliable, reusable and routinely avalible large blocks of energy-infused-time throughout the week
 - Labor power - Labor is effort expended, labor power is potential labor made availible to, or put at the disposal of someoen elses interests.
 
 # 01 - Exhaustion is the spirit of our age
+
 ##  Quotes
 - "How much stress goes into trying to enjoy leisure time?"
 
