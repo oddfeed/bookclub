@@ -3,7 +3,7 @@ name: Convert Org to Markdown
 on:
   push:
     branches:
-      - main  # Replace with your branch name if different
+      - main 
 
 jobs:
   convert:
@@ -13,8 +13,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Set up Pandoc
-      uses: docker://pandoc/core:2.14
+    - name: Install Pandoc
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc
 
     - name: Convert Org files to Markdown
       run: |
@@ -26,6 +28,6 @@ jobs:
       run: |
         git config --local user.email "144010979+oddfeed@users.noreply.github.com"
         git config --local user.name "oddfeed"
-        git add -A
+        git add --all
         git commit -m "Convert Org files to Markdown" -a || echo "No changes to commit"
         git push
