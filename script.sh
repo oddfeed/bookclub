@@ -11,7 +11,7 @@ echo "---" >> "$output_file"
 declare -A files_by_year_month
 
 # Loop through each Markdown file
-for file in *.md; do
+for file in *.org; do
     # Skip README.md and index.md
     if [ "$file" == "README.md" ] || [ "$file" == "index.md" ]; then
         continue
