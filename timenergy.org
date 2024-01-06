@@ -1,3 +1,4 @@
+
 ```
 Chapter,Readtime,Rating
 01,12,6
@@ -6,11 +7,12 @@ Chapter,Readtime,Rating
 04,05,5
 05,06,3 
 06,09,1
+07,07,1
 ```
 
-| Start      | End        | Rating | Time |
-| ---------- | ---------- | ------ | ---- |
-| 23/12/2023 |            |        |      |
+| Start      | End | Rating | Time |
+|------------+-----+--------+------|
+| 23/12/2023 |     |        |      |
 
 * Timenergy
 ![](/assets/timenergychart.png)
@@ -76,3 +78,9 @@ Chapter,Readtime,Rating
   - Does this by trying to claim a "physics" understanding of time is non-objective then word vomits a bunch to try and twist everything to justify the claim
 - Felt like the author reached the conclusion then went to look for a way to justify it
 - Chapter felt very bloated 
+
+* 07 - What schooling does to timenergy
+** Notes
+- Incredibly bloated
+- Restating how important itmenergy is YET AGAIN
+* 08 - Timenergy Fragility vs Robin DiAngelo
