@@ -2,5 +2,5 @@
 ---
 # 2024
 ## January
-- [timenergy.md](https://oddfeed.github.io/bookclub/timenergy.html)
+- [timenergy.org](https://oddfeed.github.io/bookclub/timenergy.html)
 
